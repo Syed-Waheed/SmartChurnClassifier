@@ -130,6 +130,7 @@ Special thanks to the open-source community and resources that made this possibl
 <div align="center">
   <p>If you found this project useful, please ⭐ the repository!</p>
 
+</div>
 
 ---
 
