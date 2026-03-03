@@ -1,4 +1,5 @@
-<div align="center">
+
+
 
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=ChurnShield&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Customer%20Retention%20•%20Machine%20Learning%20•%20Predictive%20Analytics&descAlignY=55&descAlign=50" alt="ChurnShield Header" />
